@@ -1,0 +1,31 @@
+
+# macOS system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# Python temporary files (if applicable)
+__pycache__/
+*.pyc
+
+# Editor temporary files
+*.swp
+*.swo
+*~
